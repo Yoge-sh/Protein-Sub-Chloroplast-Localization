@@ -7,6 +7,8 @@ This GitHub repository contains the code and resources for a multiclass classifi
 
 ## Dataset
 
+Link to the dataset : https://drive.google.com/drive/folders/1PQ7kEMWHT12JHd_GlwmiolyV_MyHO5a9
+
 The project uses a benchmark and novel dataset that includes protein structure information in the form of amino acid chains. Each protein in the dataset is associated with a binary value representing its presence or absence in one of the five sub-chloroplast locations. This dataset serves as the foundation for the model training and evaluation.
 
 ## Feature Engineering
